@@ -27,7 +27,7 @@ _Revenue = (order_details[unitPrice]) * (order_details[quantity])_
 
 And 
 
-![[](Total_Revenue.png)
+![](Total_Revenue.png)
 
 The screenshot above shows the total revenue from product sales and the DAX function used is as follows:
 
