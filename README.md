@@ -49,10 +49,10 @@ _Average Quantity sold = AVERAGE(order_details[quantity])_
 
 The Revenue Tracking Dashboard provides a comprehensive view of the financial performance of Northwind Traders' products, and some key insights derived include: 
 
-##### Revenue by Month Insights:
+##### Revenue by Month:
 The dashboard illustrates the total revenue on a monthly basis, revealing that April stands out as the highest revenue-generating month. This insight is crucial for understanding seasonal variations and marketing strategies accordingly. 
 
-##### Revenue by Country Insights:
+##### Revenue by Country:
 This analysis helps to identify geographical areas of strength and areas where growth opportunities may exist. In this dashboard, the USA emerges as the top revenue-generating country. from the analysis, The next logical question should be why the USA outperforms other countries. Are there specific regions or demographics within the USA that are more active buyers? These insights would facilitate informed-decisions and actions.
 
 ##### Revenue by Category Name:
